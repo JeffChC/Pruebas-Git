@@ -1,5 +1,20 @@
 body{
-    color: blueviolet;
+    color: coral;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 16px;
+
+}
+
+#container{
+    width: 70%;
+    padding: 1cm;
     text-align: center;
+    border: 1px solid #ABC;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
 }
